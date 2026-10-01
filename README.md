@@ -9,7 +9,7 @@
 ## Track Information
 
 **Track:** Track A  
-**World:** Shop - River City Supply  
+**World:** Shop - River City Supply
 **Language:** C#
 
 ## How to Run
